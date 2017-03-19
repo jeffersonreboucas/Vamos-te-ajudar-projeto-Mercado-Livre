@@ -1,5 +1,3 @@
-
-
 -- *****************************************************
 -- Base de Dados...: mysql_quero_ajudar
 -- *****************************************************
@@ -55,4 +53,4 @@ CREATE TABLE IF NOT EXISTS tabela_imagens_posts (
  tipo_imagem varchar(25) NOT NULL,
  imagem longblob NOT NULL
 )
-CREATE INDEX PRGRUPO ON tabela_imagens_posts (id_post);
+CREATE INDEX indice_post ON tabela_imagens_posts (id_post);
