@@ -41,3 +41,5 @@ CREATE TABLE IF NOT EXISTS tabela_imagens_posts (
  imagem longblob NOT NULL
 );
 CREATE INDEX indice_post ON tabela_imagens_posts (id_post);
+
+-- ************************ bottom of data ******************************
