@@ -5,9 +5,9 @@ date_default_timezone_set('America/Sao_Paulo');
 
 $host= 'mysql02.hstbr.net';
 $bd= 'mysql_quero_ajudar';
-$senhabd= 'jG93oPfFh4';
+$senhabd= '';
 
-$userbd = 'dba';
+$userbd = '';
 
 
 // RECEBENDO OS DADOS PREENCHIDOS DO FORMULÁRIO !
