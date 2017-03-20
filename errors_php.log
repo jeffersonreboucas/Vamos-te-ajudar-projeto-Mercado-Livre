@@ -1,0 +1,1 @@
+[19-Mar-2017 14:23:12 America/Sao_Paulo] PHP Warning:  mysql_connect(): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/vamosteajudar.com.br/www/conexao.php on line 8
